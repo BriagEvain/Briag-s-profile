@@ -1,0 +1,58 @@
+body {
+	background-color: #E5B8F4;
+font-size: 15pt;
+	font-family: Courier;
+}
+
+h1 {
+	color : black;
+
+	font-family: monospace;
+	font-weight: bolder;
+text-align: center;
+}
+
+h2 {
+	font-weight: 100;
+	font-family: monospace;
+	color: #61764B;
+}
+
+a:hover {
+	color: #FF6E31;
+}
+
+.img-circle {
+	border-radius: 90%;
+}
+#leader {
+	border: 5px solid #61764B;
+}
+
+
+
+
+.briag {
+	box-shadow: 0px 10px 30px;
+	border-radius: 10px;
+	max-width: 2000px;
+
+
+}
+
+
+
+.roi {
+	text-align: center;
+
+}
+
+.reine {
+	text-align: center;
+}
+@media 	(max-width: 500px){
+	.reine {
+		width: 400px;
+	}			
+}
+
